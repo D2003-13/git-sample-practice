@@ -2,4 +2,4 @@ Learning basic git commands
 Learning git basics
 Practicing amend command
 practicing GitHub remote commands
-This line is added in feature1 branch
+This line is modified inside main branch
