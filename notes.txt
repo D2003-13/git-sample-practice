@@ -2,4 +2,4 @@ Learning basic git commands
 Learning git basics
 Practicing amend command
 practicing GitHub remote commands
-This line is modified inside main branch
+This line is modified in both main and conflict-demo branches
