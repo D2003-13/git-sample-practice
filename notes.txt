@@ -1,3 +1,4 @@
 Learning basic git commands
 Learning git basics
 Practicing amend command
+practicing GitHub remote commands
