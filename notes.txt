@@ -4,3 +4,4 @@ Practicing amend command
 practicing GitHub remote commands
 This line is modified in both main and conflict-demo branches
 learning pull command
+practicing fetch command
